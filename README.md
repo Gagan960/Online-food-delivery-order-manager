@@ -50,7 +50,7 @@ Develop and deploy a working application that manages food delivery orders and a
      - Max Distance: 10 KM
      - Result: ORD002 assigned (nearest unpaid at 3 KM)
 
-### ✅ Mandatory UI Requirements
+### ✅ UI Requirements
 
 | Component | File | Status |
 |-----------|------|--------|
@@ -101,6 +101,7 @@ Develop and deploy a working application that manages food delivery orders and a
 
 4. **Access Application:**
    - Home Page: `http://localhost:5173`
+   or it may vary the port number
    - Order Manager: `http://localhost:5173/orders`
 
 ### Accessing Order Manager
@@ -228,21 +229,14 @@ Food-ordering/
 ## 🌐 Deployment
 
 ### Live URL
-- **Deployment Status:** [Awaiting deployment URL]
-- **Platform:** [Vercel / Netlify / Render / GitHub Pages]
-- **Access:** [https://your-deployment-url.com]
+- **Deployment Status:** [deployed]
+- **Platform:** [Vercel]
+- **Access:** [https://online-food-delivery-order-manager-chi.vercel.app/]
 
-*(Update this section after deployment)*
 
 ---
 
-## 🎥 Demo Video
 
-- **Video Link:** [Awaiting demo video link]
-- **Duration:** 2 minutes
-- **Shows:** Add orders, filter by status/distance, assign delivery
-
-*(Update this section after recording)*
 
 ---
 
@@ -267,15 +261,9 @@ vercel
 
 ---
 
-## 📝 Git Commits
 
-- Minimum 3 commits required (Implemented ✅)
-- Commits track development progress
-- Push to GitHub repository
 
----
-
-## 📋 Additional Documentation (Optional)
+## 📋 Additional Documentation 
 
 This repository includes supplementary markdown files for reference:
 - `IMPLEMENTATION_COMPLETE.md` - Detailed feature overview
@@ -322,16 +310,9 @@ This repository includes supplementary markdown files for reference:
 
 ---
 
-## 📞 Support & Questions
 
-For detailed technical information, refer to the optional documentation files listed above.
 
----
 
-**Ready to deploy! 🚀**
 
-### Submission Note
-This project was prepared and submitted as part of a technical assessment.
 
-[x] GitHub repository created
 
