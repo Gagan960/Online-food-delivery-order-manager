@@ -137,3 +137,4 @@ export const dishes = [
 // We can also add a "All" category to show all dishes
 // Get unique categories from dishes
 // Get unique categories from dishes
+console.log("dishes data");
