@@ -128,3 +128,7 @@ export const dishes = [
 // Categories are derived from the dishes data
 // We can also add a separate categories array if needed for better performance
 // For now, we will derive categories from the dishes data
+// Get unique categories from dishes
+// This will be used in the app to display category filters
+// We can also add a "All" category to show all dishes
+// Get unique categories from dishes
