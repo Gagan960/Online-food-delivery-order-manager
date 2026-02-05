@@ -121,3 +121,10 @@ export const dishes = [
     image: "https://i.pinimg.com/originals/bc/cb/df/bccbdfd18165cc1242e25edfb593aeab.jpg"
   }
 ];
+
+// Export categories
+// Added "Dessert" category
+// This will help in filtering dishes by category in the app
+// Categories are derived from the dishes data
+// We can also add a separate categories array if needed for better performance
+// For now, we will derive categories from the dishes data
