@@ -132,3 +132,8 @@ export const dishes = [
 // This will be used in the app to display category filters
 // We can also add a "All" category to show all dishes
 // Get unique categories from dishes
+
+// Get unique categories from dishes
+// We can also add a "All" category to show all dishes
+// Get unique categories from dishes
+// Get unique categories from dishes
