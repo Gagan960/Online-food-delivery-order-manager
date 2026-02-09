@@ -138,3 +138,4 @@ export const dishes = [
 // Get unique categories from dishes
 // Get unique categories from dishes
 console.log("dishes data");
+// addded code to get unique categories from dishes data
