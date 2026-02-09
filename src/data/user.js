@@ -29,3 +29,6 @@ export const user = {
     }
   ]
 };
+// Get unique categories from orders
+console.log("user data");
+// addded code to get unique categories from orders data
