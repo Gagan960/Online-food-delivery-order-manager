@@ -72,3 +72,6 @@ export const restaurants = [
     specialDishes: ["daal makhni", "Tandoori Chicken"]
   }
 ];
+// Get unique categories from restaurants
+console.log("restaurants data");
+// addded code to get unique categories from restaurants data
