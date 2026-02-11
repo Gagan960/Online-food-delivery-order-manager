@@ -75,3 +75,4 @@ export const restaurants = [
 // Get unique categories from restaurants
 console.log("restaurants data");
 // addded code to get unique categories from restaurants data
+//comments 
